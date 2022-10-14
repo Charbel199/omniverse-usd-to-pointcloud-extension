@@ -47,7 +47,7 @@ class PointCloudGeneratorExtension(omni.ext.IExt):
 
     def _create_setup_window(self):
         self._setup_window = SetupWindow(self.pc_generator)
-        self._view_window = StagePreviewWindow("Test2")
+        self._view_window = StagePreviewWindow("View Port")
         
         self._setup_window.set_visibility_changed_fn(self._visibility_changed_fn)
         self._setup_window.show()
