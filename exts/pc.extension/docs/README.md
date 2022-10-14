@@ -1,3 +1,3 @@
-# Simple UI Extension Template
+# USD model to PointCloud converter
 
-The simplest python extension example. Use it as a starting point for your extensions.
+A pyton extension based on the Kaolin app data generator extension.
