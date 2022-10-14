@@ -4,7 +4,7 @@
 
 # Current Issue
 
-This [line](exts/pc.extension/pc/extension/pointcloud_converter.py#L200) of code:
+This [line](exts/pc.extension/pc/extension/pointcloud_converter.py#L205) of code:
 `self.__vp_widget.viewport_api.render_product_path`
 returns
 `None`
